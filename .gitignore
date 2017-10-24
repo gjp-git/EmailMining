@@ -1,0 +1,7 @@
+#ignore .eml
+
+*.[eml]
+
+#ignore resource/
+
+resource
