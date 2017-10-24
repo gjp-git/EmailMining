@@ -1,6 +1,6 @@
 #ignore .eml
 
-*.[eml]
+*.eml
 
 #ignore resource/
 
